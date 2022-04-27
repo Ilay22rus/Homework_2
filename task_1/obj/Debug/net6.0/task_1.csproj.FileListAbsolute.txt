@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\bin\Debug\net6.0\task_1.exe
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\bin\Debug\net6.0\task_1.deps.json
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\bin\Debug\net6.0\task_1.dll
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\bin\Debug\net6.0\task_1.pdb
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.dll
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\refint\task_1.dll
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.pdb
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+C:\Users\Илья\Desktop\папка с гитами\homework_2\task_1\obj\Debug\net6.0\ref\task_1.dll
